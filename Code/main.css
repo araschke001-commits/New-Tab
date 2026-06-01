@@ -1,1 +1,11 @@
+#big-btn {
+    color: black;
+    background-color: white;
+    border-width: 0;
+    border-radius: 8px;
+    padding: 15px;
+}
 
+#big-btn:hover {
+    background-color: gray;
+}
