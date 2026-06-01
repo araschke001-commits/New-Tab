@@ -5,5 +5,5 @@ const countDisplay = document.getElementById("btn-count");
 
 button.addEventListener("click", () => {
     count++;
-    countDisplay.textContent = `Count: ${count}`;
+    countDisplay.textContent = `${count}`;
 });
